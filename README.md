@@ -40,9 +40,6 @@ The following DAX formulas were implemented:
     * `Total Students = COUNTROWS('Student_Demographics')`
     * `Average GPA = AVERAGE('Student_Performance'[GPA])`
 
-* **Calculated Column:**
-    * `Pass/Fail Status = IF('Student_Performance'[GradeClass] IN {"A", "B", "C", "D"}, "Pass", "Fail")`
-
 ---
 
 ### Key Visualizations & Insights
