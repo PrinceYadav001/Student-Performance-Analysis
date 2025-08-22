@@ -1,5 +1,5 @@
 # Student Performance Analysis Dashboard using Power BI
-
+### Data collection done form : https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 ### Project Overview
 
 This project aims to analyze various factors that impact the academic performance of students. An interactive and insightful dashboard has been developed using Microsoft Power BI to visualize key metrics and uncover underlying trends from a student dataset.
