@@ -1,3 +1,4 @@
+<img width="1324" height="744" alt="image" src="https://github.com/user-attachments/assets/90e935b7-3da5-4fac-b549-e13b8f63d7e7" />
 # Student Performance Analysis Dashboard using Power BI
 ### Data collection done form : https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 ### Project Overview
