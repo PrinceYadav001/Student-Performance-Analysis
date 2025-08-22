@@ -1,7 +1,6 @@
 # Student Performance Analysis Dashboard using Power BI
 
-
-<img width="1324" height="744" alt="image" src="https://github.com/user-attachments/assets/90e935b7-3da5-4fac-b549-e13b8f63d7e7" />
+<img width="1373" height="771" alt="image" src="https://github.com/user-attachments/assets/eb764aa0-c3b1-49f5-8b5c-cac2a5f75f28" />
 
 ### Data collection done from: https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 
