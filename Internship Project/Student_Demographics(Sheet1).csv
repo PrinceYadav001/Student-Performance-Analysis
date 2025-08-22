@@ -1,0 +1,1001 @@
+StudentID,Age,Gender,Ethnicity,ParentalEducationLevel
+1001,17,Female,Asian,High School
+1002,18,Male,Asian,Primary School
+1003,15,Male,African-American,University
+1004,17,Female,Asian,University
+1005,17,Female,Asian,High School
+1006,18,Male,Asian,Primary School
+1007,15,Male,Caucasian,Primary School
+1008,15,Female,Caucasian,Postgraduate
+1009,17,Male,Asian,None
+1010,16,Female,Asian,Primary School
+1011,17,Male,Asian,Primary School
+1012,17,Male,Asian,Primary School
+1013,17,Male,Caucasian,Primary School
+1014,17,Male,Caucasian,High School
+1015,18,Female,Asian,Primary School
+1016,15,Male,Asian,High School
+1017,18,Male,Hispanic,Primary School
+1018,18,Female,Asian,None
+1019,18,Male,Caucasian,University
+1020,17,Male,Asian,Primary School
+1021,16,Female,Asian,University
+1022,15,Male,Asian,High School
+1023,16,Female,Caucasian,None
+1024,18,Female,Hispanic,Postgraduate
+1025,18,Female,Asian,Primary School
+1026,16,Female,Asian,University
+1027,16,Male,Asian,Primary School
+1028,16,Female,Asian,University
+1029,18,Male,Asian,None
+1030,18,Male,Asian,High School
+1031,15,Male,African-American,High School
+1032,15,Male,Asian,University
+1033,18,Male,Asian,University
+1034,16,Male,Hispanic,University
+1035,16,Male,Asian,University
+1036,15,Male,Hispanic,Primary School
+1037,18,Male,Asian,Primary School
+1038,15,Male,African-American,Primary School
+1039,15,Female,Caucasian,Primary School
+1040,17,Female,African-American,Primary School
+1041,17,Female,Hispanic,High School
+1042,17,Male,Asian,Primary School
+1043,16,Female,Hispanic,High School
+1044,18,Female,Asian,Primary School
+1045,18,Female,Asian,Primary School
+1046,18,Male,Asian,High School
+1047,18,Male,Caucasian,High School
+1048,17,Male,Asian,High School
+1049,16,Male,Caucasian,High School
+1050,16,Female,Caucasian,Primary School
+1051,17,Female,African-American,High School
+1052,16,Female,African-American,None
+1053,17,Female,Asian,Primary School
+1054,18,Male,Asian,High School
+1055,17,Male,Asian,None
+1056,18,Male,Asian,Primary School
+1057,18,Female,Asian,Postgraduate
+1058,15,Male,Asian,Postgraduate
+1059,17,Male,Asian,Primary School
+1060,15,Female,Hispanic,None
+1061,17,Female,Caucasian,Primary School
+1062,17,Male,Asian,Primary School
+1063,15,Male,Caucasian,University
+1064,15,Male,Asian,Primary School
+1065,17,Male,Asian,High School
+1066,16,Male,Caucasian,Primary School
+1067,18,Male,Asian,Postgraduate
+1068,15,Female,Asian,Primary School
+1069,18,Female,Hispanic,High School
+1070,16,Female,African-American,Primary School
+1071,16,Male,Caucasian,High School
+1072,16,Female,Caucasian,Primary School
+1073,15,Male,Caucasian,Primary School
+1074,16,Male,Asian,University
+1075,15,Female,Asian,University
+1076,16,Male,Asian,University
+1077,18,Male,Asian,High School
+1078,18,Female,Caucasian,University
+1079,17,Female,Asian,None
+1080,18,Female,Hispanic,Primary School
+1081,17,Male,Hispanic,Primary School
+1082,18,Female,African-American,High School
+1083,15,Female,Caucasian,Primary School
+1084,18,Male,African-American,Primary School
+1085,17,Female,Asian,High School
+1086,17,Female,African-American,University
+1087,16,Female,Asian,Primary School
+1088,15,Male,African-American,Primary School
+1089,18,Male,Asian,Primary School
+1090,16,Male,African-American,Primary School
+1091,18,Male,Hispanic,Primary School
+1092,18,Female,Asian,High School
+1093,16,Male,Asian,High School
+1094,16,Male,Hispanic,High School
+1095,16,Female,Asian,Primary School
+1096,16,Female,African-American,University
+1097,16,Female,Caucasian,Primary School
+1098,18,Male,Asian,High School
+1099,16,Male,Asian,University
+1100,15,Male,Asian,Primary School
+1101,17,Female,African-American,Primary School
+1102,16,Female,Asian,University
+1103,16,Male,Caucasian,Primary School
+1104,18,Female,Asian,High School
+1105,16,Female,Caucasian,None
+1106,16,Female,African-American,High School
+1107,16,Male,Hispanic,Primary School
+1108,18,Female,Asian,None
+1109,16,Female,African-American,High School
+1110,17,Male,African-American,Primary School
+1111,18,Male,Caucasian,Primary School
+1112,17,Female,Hispanic,None
+1113,18,Female,Asian,Primary School
+1114,16,Male,Asian,Primary School
+1115,17,Male,African-American,None
+1116,18,Female,Asian,University
+1117,15,Female,African-American,None
+1118,16,Female,African-American,High School
+1119,18,Female,Asian,Primary School
+1120,15,Male,African-American,Primary School
+1121,18,Female,Asian,University
+1122,15,Female,Caucasian,Primary School
+1123,16,Male,Caucasian,Postgraduate
+1124,17,Female,Hispanic,Primary School
+1125,15,Male,Asian,High School
+1126,18,Female,Asian,High School
+1127,16,Female,Caucasian,University
+1128,15,Male,African-American,High School
+1129,18,Male,Caucasian,High School
+1130,18,Female,Asian,Primary School
+1131,18,Female,Asian,Primary School
+1132,15,Female,Asian,University
+1133,15,Male,African-American,Primary School
+1134,15,Female,Asian,Primary School
+1135,17,Male,Asian,High School
+1136,15,Male,Hispanic,Primary School
+1137,15,Female,Asian,Postgraduate
+1138,15,Male,Hispanic,High School
+1139,17,Female,Caucasian,High School
+1140,15,Female,African-American,University
+1141,18,Female,Asian,None
+1142,15,Female,Asian,Primary School
+1143,18,Female,African-American,High School
+1144,18,Male,African-American,Primary School
+1145,18,Male,African-American,High School
+1146,17,Female,Asian,University
+1147,17,Female,African-American,High School
+1148,17,Male,African-American,Primary School
+1149,15,Male,Caucasian,Postgraduate
+1150,18,Male,African-American,High School
+1151,17,Male,African-American,High School
+1152,17,Female,Caucasian,Primary School
+1153,15,Female,Asian,University
+1154,17,Male,Asian,High School
+1155,15,Female,Asian,High School
+1156,16,Male,Asian,University
+1157,17,Female,Asian,Primary School
+1158,16,Male,Asian,High School
+1159,15,Female,Asian,University
+1160,18,Male,Asian,Primary School
+1161,17,Male,African-American,High School
+1162,15,Female,Hispanic,University
+1163,18,Male,Asian,High School
+1164,18,Female,Hispanic,High School
+1165,16,Female,Caucasian,University
+1166,15,Male,Asian,University
+1167,18,Female,Asian,Primary School
+1168,17,Female,Caucasian,None
+1169,17,Female,African-American,High School
+1170,16,Female,African-American,High School
+1171,18,Female,Asian,High School
+1172,15,Male,Asian,High School
+1173,17,Female,Asian,Primary School
+1174,18,Female,Asian,High School
+1175,18,Female,Asian,Primary School
+1176,16,Female,Asian,High School
+1177,17,Female,African-American,High School
+1178,17,Male,Hispanic,Primary School
+1179,15,Female,Asian,Primary School
+1180,17,Male,Hispanic,High School
+1181,15,Male,Asian,High School
+1182,17,Male,Asian,Primary School
+1183,16,Male,Asian,Postgraduate
+1184,17,Female,Caucasian,High School
+1185,15,Male,Hispanic,Postgraduate
+1186,15,Male,Caucasian,High School
+1187,16,Female,Asian,High School
+1188,17,Female,Caucasian,University
+1189,17,Female,Asian,High School
+1190,16,Male,African-American,High School
+1191,17,Female,Caucasian,Primary School
+1192,17,Female,Asian,High School
+1193,15,Male,Caucasian,Primary School
+1194,17,Female,Caucasian,Primary School
+1195,17,Female,Asian,None
+1196,16,Female,Caucasian,None
+1197,16,Female,Asian,Postgraduate
+1198,18,Male,African-American,Primary School
+1199,15,Female,African-American,High School
+1200,17,Female,African-American,University
+1201,17,Male,Caucasian,High School
+1202,18,Female,Caucasian,Primary School
+1203,17,Male,Asian,High School
+1204,15,Female,African-American,High School
+1205,18,Male,Asian,High School
+1206,15,Male,Asian,High School
+1207,18,Male,Asian,Postgraduate
+1208,18,Male,Asian,High School
+1209,16,Female,Caucasian,Primary School
+1210,15,Male,Asian,High School
+1211,17,Female,African-American,None
+1212,17,Male,Asian,University
+1213,15,Male,Asian,Primary School
+1214,17,Male,Caucasian,Primary School
+1215,17,Female,Asian,University
+1216,15,Male,Asian,High School
+1217,18,Female,African-American,Primary School
+1218,15,Female,Asian,High School
+1219,18,Female,African-American,University
+1220,17,Female,Asian,Primary School
+1221,17,Female,Asian,University
+1222,17,Female,African-American,None
+1223,16,Female,Asian,High School
+1224,18,Female,Asian,University
+1225,16,Female,Asian,Primary School
+1226,16,Male,Asian,High School
+1227,15,Male,African-American,Primary School
+1228,16,Male,Asian,High School
+1229,15,Male,African-American,High School
+1230,15,Male,African-American,High School
+1231,16,Female,Asian,Primary School
+1232,18,Female,Hispanic,Primary School
+1233,18,Female,Asian,None
+1234,18,Female,Hispanic,Primary School
+1235,18,Female,Asian,High School
+1236,18,Female,Caucasian,University
+1237,16,Female,Asian,High School
+1238,16,Male,Asian,High School
+1239,17,Male,Caucasian,Postgraduate
+1240,18,Male,African-American,High School
+1241,16,Male,Asian,University
+1242,17,Female,Asian,High School
+1243,18,Female,African-American,Primary School
+1244,15,Female,Caucasian,None
+1245,17,Male,Hispanic,High School
+1246,16,Female,African-American,Primary School
+1247,15,Female,Hispanic,Primary School
+1248,15,Female,African-American,High School
+1249,15,Male,Asian,High School
+1250,17,Female,Asian,High School
+1251,16,Male,African-American,Primary School
+1252,15,Male,Caucasian,Primary School
+1253,18,Male,Asian,High School
+1254,15,Male,Asian,Postgraduate
+1255,15,Female,Hispanic,High School
+1256,17,Male,Caucasian,University
+1257,17,Male,Asian,High School
+1258,16,Female,Asian,High School
+1259,18,Female,Asian,Primary School
+1260,17,Male,Asian,High School
+1261,15,Female,Asian,High School
+1262,16,Male,Asian,High School
+1263,15,Male,African-American,High School
+1264,15,Male,Asian,High School
+1265,17,Male,African-American,Primary School
+1266,16,Female,African-American,High School
+1267,18,Male,Asian,Primary School
+1268,18,Female,Caucasian,University
+1269,17,Female,Asian,Primary School
+1270,17,Female,African-American,None
+1271,16,Female,Asian,High School
+1272,18,Male,Caucasian,High School
+1273,18,Female,Caucasian,High School
+1274,18,Male,Asian,Primary School
+1275,15,Female,Asian,High School
+1276,18,Female,Caucasian,Primary School
+1277,15,Male,African-American,University
+1278,16,Male,Asian,University
+1279,15,Male,Caucasian,High School
+1280,16,Female,Asian,Primary School
+1281,18,Female,African-American,High School
+1282,18,Male,Asian,None
+1283,16,Male,African-American,High School
+1284,17,Male,Asian,Primary School
+1285,16,Male,Asian,University
+1286,17,Female,Asian,None
+1287,15,Male,Asian,High School
+1288,15,Male,Caucasian,High School
+1289,15,Male,Asian,High School
+1290,18,Male,African-American,None
+1291,15,Female,Asian,Postgraduate
+1292,17,Male,Asian,High School
+1293,15,Female,Asian,High School
+1294,16,Male,Asian,Primary School
+1295,16,Male,Asian,High School
+1296,18,Female,Asian,High School
+1297,16,Male,Asian,None
+1298,17,Female,Asian,Primary School
+1299,15,Female,Caucasian,University
+1300,18,Male,Caucasian,Primary School
+1301,15,Female,Asian,Primary School
+1302,15,Female,Asian,High School
+1303,17,Female,Hispanic,High School
+1304,16,Female,Caucasian,None
+1305,16,Female,Caucasian,High School
+1306,15,Female,Asian,Primary School
+1307,18,Female,African-American,None
+1308,16,Female,African-American,None
+1309,18,Male,Caucasian,University
+1310,16,Male,Hispanic,Primary School
+1311,18,Female,Asian,None
+1312,17,Male,Asian,High School
+1313,18,Female,African-American,University
+1314,17,Female,African-American,Primary School
+1315,17,Male,Asian,High School
+1316,18,Female,Asian,None
+1317,17,Female,Asian,High School
+1318,15,Female,Asian,High School
+1319,17,Female,African-American,High School
+1320,16,Male,Caucasian,Primary School
+1321,18,Female,Asian,Primary School
+1322,15,Female,Asian,Primary School
+1323,18,Female,Asian,Primary School
+1324,16,Male,Asian,None
+1325,16,Female,Caucasian,High School
+1326,16,Male,Hispanic,Postgraduate
+1327,17,Male,African-American,Postgraduate
+1328,17,Female,Asian,University
+1329,18,Female,African-American,High School
+1330,18,Male,African-American,High School
+1331,15,Female,African-American,Primary School
+1332,15,Male,Asian,High School
+1333,18,Male,Asian,High School
+1334,17,Female,Asian,High School
+1335,16,Female,Asian,High School
+1336,18,Male,Asian,Primary School
+1337,15,Male,Asian,Primary School
+1338,17,Male,Asian,University
+1339,18,Male,African-American,None
+1340,18,Female,Asian,High School
+1341,17,Female,Asian,University
+1342,18,Female,Hispanic,High School
+1343,17,Female,Hispanic,High School
+1344,16,Female,African-American,Primary School
+1345,17,Male,Hispanic,Primary School
+1346,17,Female,Caucasian,University
+1347,17,Female,Hispanic,High School
+1348,18,Female,Asian,High School
+1349,18,Female,Asian,None
+1350,17,Female,Asian,None
+1351,18,Male,Asian,Postgraduate
+1352,15,Male,Asian,Primary School
+1353,15,Male,Caucasian,High School
+1354,18,Female,African-American,None
+1355,18,Male,Caucasian,High School
+1356,17,Male,Asian,University
+1357,16,Female,African-American,High School
+1358,18,Female,Caucasian,Primary School
+1359,15,Female,Asian,High School
+1360,17,Male,Caucasian,High School
+1361,18,Male,Asian,High School
+1362,15,Female,Asian,University
+1363,15,Female,Hispanic,High School
+1364,16,Male,Asian,University
+1365,17,Male,Asian,High School
+1366,17,Female,African-American,Primary School
+1367,16,Female,African-American,Primary School
+1368,16,Male,Asian,Primary School
+1369,17,Female,Asian,University
+1370,17,Male,Asian,High School
+1371,18,Male,Caucasian,High School
+1372,18,Male,Asian,Primary School
+1373,16,Male,Asian,Primary School
+1374,18,Female,Hispanic,High School
+1375,15,Female,Caucasian,High School
+1376,18,Male,Asian,Primary School
+1377,18,Male,Caucasian,High School
+1378,15,Male,Caucasian,None
+1379,16,Male,Asian,Primary School
+1380,15,Male,Asian,High School
+1381,18,Female,African-American,Primary School
+1382,16,Female,Asian,Postgraduate
+1383,18,Female,Caucasian,Primary School
+1384,15,Female,Asian,Primary School
+1385,15,Male,Asian,Primary School
+1386,18,Male,Asian,High School
+1387,17,Male,Asian,High School
+1388,17,Male,Asian,High School
+1389,15,Male,Asian,None
+1390,15,Female,African-American,None
+1391,17,Male,Hispanic,High School
+1392,17,Female,African-American,University
+1393,18,Female,African-American,University
+1394,18,Female,Asian,None
+1395,17,Female,Hispanic,High School
+1396,18,Male,Asian,University
+1397,18,Female,Hispanic,Primary School
+1398,16,Female,Hispanic,University
+1399,18,Female,African-American,Primary School
+1400,15,Male,Hispanic,University
+1401,18,Male,Caucasian,High School
+1402,18,Male,Asian,University
+1403,17,Female,Asian,High School
+1404,15,Female,Caucasian,Primary School
+1405,18,Male,Asian,University
+1406,18,Female,Caucasian,Primary School
+1407,16,Male,Hispanic,Primary School
+1408,18,Male,Asian,High School
+1409,18,Female,African-American,High School
+1410,16,Female,Hispanic,University
+1411,17,Female,Hispanic,Primary School
+1412,18,Female,Hispanic,High School
+1413,16,Male,Caucasian,High School
+1414,15,Male,Hispanic,None
+1415,17,Male,African-American,Primary School
+1416,15,Male,Asian,Primary School
+1417,15,Male,Asian,Primary School
+1418,16,Female,African-American,Postgraduate
+1419,18,Male,Asian,High School
+1420,16,Male,Caucasian,High School
+1421,16,Male,Caucasian,Postgraduate
+1422,16,Female,Asian,Primary School
+1423,16,Female,Caucasian,University
+1424,17,Female,African-American,High School
+1425,18,Female,Asian,University
+1426,15,Male,Asian,Primary School
+1427,15,Male,Asian,University
+1428,18,Female,Asian,Primary School
+1429,15,Female,Hispanic,Primary School
+1430,18,Male,Asian,High School
+1431,15,Male,Caucasian,Primary School
+1432,16,Female,Asian,High School
+1433,15,Female,Asian,High School
+1434,18,Female,African-American,High School
+1435,18,Female,African-American,Primary School
+1436,18,Male,Asian,None
+1437,18,Male,Asian,Primary School
+1438,18,Male,Asian,High School
+1439,17,Female,Asian,Primary School
+1440,17,Female,Caucasian,Primary School
+1441,15,Male,Asian,Primary School
+1442,18,Male,Asian,None
+1443,15,Male,Asian,High School
+1444,18,Male,Hispanic,University
+1445,18,Female,Hispanic,Primary School
+1446,17,Male,Asian,High School
+1447,17,Male,African-American,High School
+1448,16,Male,Asian,High School
+1449,17,Male,Asian,High School
+1450,16,Male,African-American,High School
+1451,16,Male,Hispanic,High School
+1452,16,Male,Hispanic,None
+1453,16,Female,Caucasian,High School
+1454,16,Female,Asian,High School
+1455,15,Female,African-American,None
+1456,17,Female,Asian,Primary School
+1457,16,Male,Caucasian,Postgraduate
+1458,18,Female,Asian,High School
+1459,17,Female,Caucasian,High School
+1460,17,Male,Asian,University
+1461,16,Male,Asian,High School
+1462,15,Female,Hispanic,High School
+1463,16,Female,Asian,High School
+1464,15,Male,Caucasian,University
+1465,18,Female,Asian,High School
+1466,17,Male,Asian,High School
+1467,18,Male,Asian,Primary School
+1468,15,Male,Asian,Postgraduate
+1469,15,Male,African-American,High School
+1470,18,Female,Asian,None
+1471,15,Male,Hispanic,University
+1472,18,Male,Caucasian,High School
+1473,17,Female,Asian,None
+1474,18,Male,Caucasian,High School
+1475,17,Female,Caucasian,High School
+1476,18,Female,African-American,University
+1477,15,Female,Asian,Primary School
+1478,18,Male,Asian,University
+1479,15,Female,African-American,High School
+1480,18,Female,Hispanic,None
+1481,18,Male,African-American,Postgraduate
+1482,16,Female,Asian,High School
+1483,15,Female,African-American,Primary School
+1484,16,Female,Asian,High School
+1485,15,Female,Asian,University
+1486,16,Female,Asian,Primary School
+1487,17,Male,Caucasian,Primary School
+1488,18,Female,Asian,Primary School
+1489,15,Female,Asian,Primary School
+1490,15,Male,African-American,High School
+1491,18,Male,Asian,High School
+1492,15,Male,Asian,Primary School
+1493,15,Female,Asian,Primary School
+1494,16,Male,Hispanic,Primary School
+1495,15,Female,Caucasian,University
+1496,17,Female,Asian,Primary School
+1497,17,Male,African-American,Postgraduate
+1498,18,Male,African-American,High School
+1499,15,Female,Asian,Primary School
+1500,18,Male,Caucasian,University
+1501,17,Female,African-American,High School
+1502,15,Male,Caucasian,High School
+1503,15,Male,Asian,Postgraduate
+1504,18,Male,African-American,None
+1505,17,Female,Caucasian,None
+1506,15,Male,Asian,High School
+1507,18,Female,Asian,Primary School
+1508,17,Female,Asian,Primary School
+1509,18,Female,Asian,None
+1510,16,Female,African-American,None
+1511,15,Male,Asian,High School
+1512,16,Female,Asian,Primary School
+1513,17,Female,Caucasian,High School
+1514,16,Male,Asian,High School
+1515,16,Female,Hispanic,High School
+1516,17,Male,Asian,None
+1517,18,Female,Asian,High School
+1518,16,Male,Asian,None
+1519,18,Female,Asian,High School
+1520,16,Male,Asian,University
+1521,18,Female,African-American,High School
+1522,17,Female,Hispanic,High School
+1523,16,Male,Asian,High School
+1524,17,Male,Caucasian,Primary School
+1525,16,Male,African-American,University
+1526,17,Male,African-American,University
+1527,17,Female,Asian,Primary School
+1528,16,Female,Asian,High School
+1529,16,Male,Asian,University
+1530,16,Female,African-American,Postgraduate
+1531,15,Male,African-American,High School
+1532,18,Male,Asian,High School
+1533,15,Female,Asian,Primary School
+1534,15,Female,Hispanic,Postgraduate
+1535,17,Female,African-American,Primary School
+1536,16,Female,Hispanic,High School
+1537,18,Female,African-American,Primary School
+1538,17,Female,Asian,Primary School
+1539,15,Female,Caucasian,High School
+1540,16,Male,Caucasian,Postgraduate
+1541,17,Male,Asian,None
+1542,16,Male,Caucasian,High School
+1543,17,Male,African-American,None
+1544,16,Male,Asian,Primary School
+1545,15,Female,African-American,High School
+1546,18,Male,Caucasian,High School
+1547,15,Male,Hispanic,Primary School
+1548,18,Male,Asian,Primary School
+1549,16,Male,Asian,None
+1550,17,Male,Caucasian,Primary School
+1551,15,Male,Asian,Postgraduate
+1552,18,Male,African-American,University
+1553,15,Female,African-American,Primary School
+1554,18,Female,Asian,High School
+1555,15,Male,Caucasian,University
+1556,18,Female,Caucasian,None
+1557,18,Female,Asian,University
+1558,16,Female,Hispanic,University
+1559,18,Female,African-American,None
+1560,16,Male,Caucasian,Primary School
+1561,18,Female,African-American,Postgraduate
+1562,17,Female,Asian,High School
+1563,17,Female,Hispanic,None
+1564,17,Male,Caucasian,Primary School
+1565,18,Male,African-American,High School
+1566,16,Male,African-American,High School
+1567,16,Male,Asian,High School
+1568,18,Male,African-American,Postgraduate
+1569,17,Male,Asian,Primary School
+1570,17,Male,Asian,High School
+1571,16,Female,Asian,High School
+1572,17,Female,Hispanic,High School
+1573,15,Female,African-American,Primary School
+1574,16,Male,African-American,Postgraduate
+1575,17,Male,African-American,University
+1576,16,Male,Caucasian,High School
+1577,15,Male,Hispanic,High School
+1578,16,Male,Asian,Primary School
+1579,16,Female,Asian,High School
+1580,16,Female,Asian,High School
+1581,16,Male,African-American,High School
+1582,15,Male,African-American,Postgraduate
+1583,18,Male,Asian,High School
+1584,16,Male,Asian,Primary School
+1585,16,Female,African-American,High School
+1586,17,Male,Asian,Primary School
+1587,16,Male,African-American,Primary School
+1588,17,Male,Hispanic,Primary School
+1589,18,Male,Asian,High School
+1590,15,Female,Asian,High School
+1591,15,Male,African-American,High School
+1592,18,Male,African-American,High School
+1593,15,Female,Caucasian,High School
+1594,18,Female,Hispanic,Primary School
+1595,18,Female,Asian,University
+1596,18,Male,Caucasian,Primary School
+1597,15,Male,African-American,Primary School
+1598,17,Female,African-American,High School
+1599,18,Female,Asian,Primary School
+1600,16,Female,African-American,None
+1601,15,Female,Caucasian,High School
+1602,18,Female,Asian,High School
+1603,18,Female,Asian,High School
+1604,16,Male,African-American,Postgraduate
+1605,17,Male,Asian,High School
+1606,17,Male,Asian,University
+1607,17,Female,Asian,Primary School
+1608,18,Female,African-American,High School
+1609,18,Female,Caucasian,University
+1610,18,Female,African-American,High School
+1611,15,Female,Asian,High School
+1612,16,Female,Caucasian,Primary School
+1613,18,Male,Caucasian,None
+1614,16,Male,African-American,High School
+1615,16,Female,Hispanic,Primary School
+1616,17,Male,Asian,University
+1617,15,Female,Caucasian,Primary School
+1618,18,Male,Asian,Postgraduate
+1619,17,Female,Caucasian,Postgraduate
+1620,17,Female,Asian,Primary School
+1621,18,Male,Asian,Primary School
+1622,16,Male,Asian,University
+1623,17,Female,Caucasian,Postgraduate
+1624,16,Female,Asian,High School
+1625,15,Male,African-American,Primary School
+1626,16,Male,Asian,High School
+1627,15,Female,Asian,High School
+1628,16,Male,African-American,Primary School
+1629,17,Female,Asian,High School
+1630,17,Female,Asian,None
+1631,15,Female,Caucasian,None
+1632,18,Female,Asian,Primary School
+1633,15,Male,Asian,Primary School
+1634,15,Male,Asian,Primary School
+1635,16,Male,Hispanic,High School
+1636,16,Male,Caucasian,Primary School
+1637,15,Male,Caucasian,Primary School
+1638,17,Male,Caucasian,Primary School
+1639,16,Male,Asian,Postgraduate
+1640,18,Female,Asian,High School
+1641,16,Male,African-American,High School
+1642,16,Male,Asian,High School
+1643,18,Female,Asian,Postgraduate
+1644,15,Male,Asian,Primary School
+1645,18,Male,Asian,High School
+1646,15,Female,Hispanic,High School
+1647,15,Male,Asian,High School
+1648,15,Male,Caucasian,None
+1649,18,Male,Asian,High School
+1650,15,Female,Hispanic,None
+1651,17,Male,Asian,High School
+1652,18,Male,Asian,High School
+1653,17,Female,African-American,Primary School
+1654,15,Male,African-American,University
+1655,16,Female,Asian,None
+1656,15,Female,Asian,University
+1657,17,Male,Asian,High School
+1658,17,Female,Asian,Primary School
+1659,18,Female,Asian,Primary School
+1660,16,Male,Asian,Postgraduate
+1661,18,Female,Asian,None
+1662,17,Female,Asian,Primary School
+1663,15,Male,Caucasian,Primary School
+1664,16,Male,Hispanic,High School
+1665,15,Male,Caucasian,High School
+1666,15,Female,Asian,Primary School
+1667,16,Male,Asian,Primary School
+1668,18,Female,Hispanic,Primary School
+1669,15,Female,Asian,Primary School
+1670,17,Female,Asian,High School
+1671,15,Female,Caucasian,High School
+1672,16,Female,Caucasian,Primary School
+1673,16,Female,Caucasian,Primary School
+1674,16,Female,Asian,Primary School
+1675,18,Male,Asian,Postgraduate
+1676,15,Male,Hispanic,Postgraduate
+1677,18,Female,Asian,University
+1678,18,Female,Caucasian,Primary School
+1679,16,Male,African-American,None
+1680,16,Female,Caucasian,Primary School
+1681,18,Male,Asian,Primary School
+1682,15,Male,Asian,High School
+1683,17,Male,Caucasian,High School
+1684,18,Female,African-American,University
+1685,15,Female,Hispanic,University
+1686,16,Male,Asian,Primary School
+1687,16,Male,Asian,High School
+1688,15,Male,Hispanic,Primary School
+1689,17,Male,African-American,None
+1690,16,Male,African-American,High School
+1691,16,Female,Asian,None
+1692,16,Male,Caucasian,High School
+1693,15,Female,African-American,Primary School
+1694,18,Male,Caucasian,High School
+1695,16,Female,Asian,High School
+1696,18,Female,Asian,Primary School
+1697,17,Female,Caucasian,University
+1698,16,Female,Asian,Primary School
+1699,16,Female,Asian,High School
+1700,17,Female,Hispanic,High School
+1701,16,Male,Asian,High School
+1702,18,Female,African-American,Postgraduate
+1703,15,Male,Asian,Primary School
+1704,18,Female,Caucasian,High School
+1705,15,Female,Hispanic,High School
+1706,15,Male,Asian,University
+1707,18,Female,Asian,Primary School
+1708,18,Male,Asian,High School
+1709,18,Male,Asian,High School
+1710,18,Male,African-American,Primary School
+1711,17,Male,Hispanic,High School
+1712,16,Female,Asian,Primary School
+1713,15,Female,Asian,High School
+1714,18,Male,Asian,University
+1715,18,Female,African-American,High School
+1716,18,Female,Asian,High School
+1717,17,Male,Caucasian,High School
+1718,18,Female,Caucasian,None
+1719,18,Male,Caucasian,Primary School
+1720,18,Male,Asian,High School
+1721,16,Female,African-American,Primary School
+1722,17,Female,Asian,Primary School
+1723,18,Female,Asian,High School
+1724,15,Male,African-American,Primary School
+1725,15,Male,African-American,Primary School
+1726,15,Female,Asian,High School
+1727,17,Female,Asian,Primary School
+1728,17,Female,Asian,University
+1729,15,Female,Asian,University
+1730,18,Male,Asian,High School
+1731,17,Female,Asian,Primary School
+1732,15,Male,Asian,High School
+1733,15,Male,African-American,University
+1734,18,Female,Caucasian,High School
+1735,16,Female,Caucasian,Primary School
+1736,17,Female,Asian,High School
+1737,18,Male,Hispanic,University
+1738,15,Female,African-American,High School
+1739,15,Female,African-American,High School
+1740,18,Male,African-American,High School
+1741,17,Female,Hispanic,High School
+1742,16,Male,Caucasian,None
+1743,16,Female,Asian,High School
+1744,15,Male,Caucasian,None
+1745,17,Female,African-American,High School
+1746,16,Female,African-American,Primary School
+1747,17,Male,Caucasian,High School
+1748,17,Male,Asian,Primary School
+1749,15,Female,Asian,High School
+1750,16,Male,Hispanic,High School
+1751,18,Male,Caucasian,Primary School
+1752,15,Male,Caucasian,Primary School
+1753,16,Male,Asian,Primary School
+1754,16,Female,Asian,University
+1755,16,Female,African-American,High School
+1756,16,Male,Caucasian,High School
+1757,16,Male,African-American,Primary School
+1758,17,Male,Asian,High School
+1759,15,Male,Caucasian,University
+1760,17,Female,Asian,University
+1761,18,Female,African-American,High School
+1762,16,Male,Asian,None
+1763,15,Male,Asian,Primary School
+1764,16,Male,Caucasian,None
+1765,15,Female,Hispanic,Primary School
+1766,17,Male,Asian,Primary School
+1767,15,Female,African-American,Primary School
+1768,18,Male,Asian,Primary School
+1769,18,Female,Asian,University
+1770,15,Male,Asian,High School
+1771,15,Female,Asian,University
+1772,15,Male,Caucasian,High School
+1773,15,Male,Asian,Primary School
+1774,18,Male,Asian,High School
+1775,16,Female,Hispanic,Primary School
+1776,15,Male,Asian,High School
+1777,15,Female,African-American,Primary School
+1778,18,Female,Asian,Postgraduate
+1779,18,Male,Caucasian,Primary School
+1780,17,Male,Asian,Primary School
+1781,15,Male,Asian,University
+1782,17,Female,Asian,None
+1783,18,Male,Asian,High School
+1784,18,Female,Asian,High School
+1785,16,Female,Caucasian,University
+1786,15,Male,African-American,Postgraduate
+1787,17,Male,African-American,Postgraduate
+1788,18,Male,Caucasian,None
+1789,18,Male,Asian,University
+1790,17,Male,Asian,High School
+1791,16,Male,Asian,High School
+1792,18,Female,Asian,Primary School
+1793,15,Female,Caucasian,High School
+1794,18,Female,Caucasian,Postgraduate
+1795,15,Male,Asian,University
+1796,17,Female,Asian,High School
+1797,15,Female,African-American,None
+1798,17,Female,African-American,Primary School
+1799,15,Female,Asian,University
+1800,17,Female,Hispanic,High School
+1801,15,Male,Hispanic,High School
+1802,16,Male,Asian,None
+1803,15,Female,Asian,High School
+1804,15,Female,Caucasian,High School
+1805,16,Female,Hispanic,University
+1806,18,Male,African-American,High School
+1807,18,Male,Asian,Primary School
+1808,15,Female,Asian,High School
+1809,16,Male,Caucasian,None
+1810,15,Male,Caucasian,Postgraduate
+1811,17,Female,Asian,Primary School
+1812,17,Male,African-American,High School
+1813,15,Male,Caucasian,Primary School
+1814,18,Female,African-American,High School
+1815,18,Male,African-American,High School
+1816,15,Male,African-American,High School
+1817,15,Female,Asian,Primary School
+1818,17,Male,Caucasian,Primary School
+1819,18,Male,Asian,Primary School
+1820,15,Female,Caucasian,High School
+1821,17,Female,Asian,None
+1822,18,Female,Caucasian,High School
+1823,16,Male,Asian,University
+1824,17,Female,Asian,University
+1825,18,Male,Asian,High School
+1826,18,Female,Asian,High School
+1827,17,Male,African-American,None
+1828,16,Female,African-American,High School
+1829,17,Female,Caucasian,University
+1830,18,Female,Asian,Primary School
+1831,15,Female,Asian,High School
+1832,15,Male,Asian,University
+1833,17,Female,Asian,University
+1834,18,Female,African-American,Primary School
+1835,15,Male,Asian,High School
+1836,18,Female,Asian,Primary School
+1837,17,Male,Asian,Primary School
+1838,15,Female,Asian,University
+1839,18,Female,Caucasian,University
+1840,15,Female,Caucasian,High School
+1841,17,Male,Asian,None
+1842,18,Female,Asian,University
+1843,15,Female,Asian,High School
+1844,17,Female,Asian,Primary School
+1845,15,Male,Asian,High School
+1846,15,Male,Hispanic,None
+1847,16,Female,Caucasian,High School
+1848,16,Male,Caucasian,High School
+1849,17,Female,Asian,Primary School
+1850,16,Female,Asian,Primary School
+1851,17,Female,Caucasian,Primary School
+1852,16,Female,Caucasian,None
+1853,15,Female,African-American,High School
+1854,17,Female,Asian,University
+1855,17,Female,Caucasian,None
+1856,15,Male,Asian,None
+1857,17,Male,African-American,High School
+1858,17,Male,Caucasian,University
+1859,16,Male,Caucasian,Primary School
+1860,17,Male,Asian,Primary School
+1861,18,Male,Caucasian,High School
+1862,15,Male,Asian,Primary School
+1863,16,Female,Asian,None
+1864,16,Female,Asian,High School
+1865,18,Female,Caucasian,High School
+1866,15,Female,Asian,High School
+1867,15,Male,Asian,High School
+1868,16,Male,African-American,High School
+1869,17,Female,Asian,Primary School
+1870,16,Female,Caucasian,Primary School
+1871,15,Male,Asian,Primary School
+1872,18,Female,Asian,Primary School
+1873,16,Female,African-American,High School
+1874,15,Female,Asian,University
+1875,16,Female,Asian,Postgraduate
+1876,17,Male,Caucasian,High School
+1877,16,Female,Caucasian,Primary School
+1878,16,Female,Caucasian,Primary School
+1879,15,Male,Asian,University
+1880,15,Male,Asian,High School
+1881,15,Female,African-American,High School
+1882,16,Male,Caucasian,High School
+1883,17,Female,African-American,High School
+1884,18,Female,African-American,University
+1885,18,Male,African-American,None
+1886,15,Female,Asian,High School
+1887,15,Female,Asian,University
+1888,16,Female,African-American,Primary School
+1889,18,Female,Asian,High School
+1890,15,Male,Asian,Primary School
+1891,17,Male,African-American,Postgraduate
+1892,17,Female,African-American,None
+1893,15,Male,Asian,High School
+1894,15,Female,Asian,Primary School
+1895,18,Female,Asian,High School
+1896,18,Female,African-American,Primary School
+1897,16,Female,Hispanic,Primary School
+1898,18,Female,Asian,High School
+1899,17,Male,Asian,University
+1900,17,Female,African-American,Primary School
+1901,15,Male,Asian,Primary School
+1902,18,Male,Caucasian,High School
+1903,16,Female,Hispanic,High School
+1904,17,Female,Asian,University
+1905,17,Female,Caucasian,Primary School
+1906,16,Female,Asian,High School
+1907,16,Female,Asian,Primary School
+1908,17,Male,African-American,Primary School
+1909,17,Female,Asian,High School
+1910,16,Female,Hispanic,High School
+1911,17,Male,Caucasian,High School
+1912,15,Male,Asian,Primary School
+1913,15,Female,Asian,High School
+1914,16,Male,Asian,High School
+1915,18,Female,Asian,Postgraduate
+1916,16,Male,Asian,Primary School
+1917,16,Male,Asian,Primary School
+1918,18,Female,Asian,Primary School
+1919,18,Male,African-American,High School
+1920,18,Male,Caucasian,Primary School
+1921,15,Male,African-American,University
+1922,17,Male,Asian,Primary School
+1923,15,Male,Asian,University
+1924,17,Male,Caucasian,Primary School
+1925,15,Female,Asian,High School
+1926,17,Female,Asian,University
+1927,15,Male,African-American,Primary School
+1928,18,Female,African-American,Postgraduate
+1929,16,Female,Caucasian,High School
+1930,15,Female,Asian,University
+1931,17,Male,African-American,High School
+1932,18,Female,Caucasian,Primary School
+1933,15,Male,African-American,Primary School
+1934,15,Female,African-American,Primary School
+1935,18,Male,African-American,None
+1936,15,Male,Caucasian,Primary School
+1937,16,Female,Asian,Primary School
+1938,15,Female,Caucasian,High School
+1939,16,Male,Caucasian,High School
+1940,16,Female,African-American,Primary School
+1941,18,Female,Asian,Primary School
+1942,15,Female,Asian,High School
+1943,18,Male,African-American,Primary School
+1944,15,Male,African-American,None
+1945,15,Female,Hispanic,Primary School
+1946,17,Female,African-American,University
+1947,15,Female,Caucasian,University
+1948,18,Male,Caucasian,Primary School
+1949,16,Male,African-American,High School
+1950,15,Female,Caucasian,High School
+1951,17,Female,Caucasian,High School
+1952,18,Female,Asian,High School
+1953,15,Female,Asian,High School
+1954,18,Female,African-American,Primary School
+1955,17,Female,Asian,None
+1956,17,Male,Asian,High School
+1957,18,Female,Asian,University
+1958,15,Male,Asian,High School
+1959,16,Female,Asian,University
+1960,17,Female,Asian,Postgraduate
+1961,15,Male,Hispanic,Primary School
+1962,15,Male,Caucasian,High School
+1963,16,Male,Asian,High School
+1964,17,Male,Asian,Postgraduate
+1965,17,Female,Caucasian,Postgraduate
+1966,15,Male,Asian,High School
+1967,15,Female,African-American,Primary School
+1968,16,Male,Caucasian,High School
+1969,16,Female,African-American,Primary School
+1970,17,Female,Asian,High School
+1971,18,Female,Caucasian,University
+1972,17,Female,Asian,Primary School
+1973,15,Female,Hispanic,High School
+1974,17,Female,Caucasian,High School
+1975,18,Male,Asian,High School
+1976,16,Female,Asian,Primary School
+1977,18,Male,Asian,High School
+1978,18,Male,Caucasian,University
+1979,18,Female,Asian,University
+1980,16,Male,Caucasian,Primary School
+1981,18,Female,Asian,University
+1982,18,Male,Caucasian,High School
+1983,18,Female,African-American,Primary School
+1984,15,Male,African-American,None
+1985,18,Female,African-American,Primary School
+1986,16,Female,Asian,University
+1987,18,Female,Asian,High School
+1988,18,Female,Caucasian,High School
+1989,16,Male,Asian,Primary School
+1990,18,Female,Asian,High School
+1991,16,Male,Asian,None
+1992,18,Male,Asian,Primary School
+1993,16,Male,Asian,High School
+1994,18,Female,African-American,Primary School
+1995,18,Male,Asian,University
+1996,15,Male,Caucasian,Primary School
+1997,15,Male,Asian,High School
+1998,18,Female,Caucasian,High School
+1999,18,Female,Asian,High School
+2000,17,Male,African-American,Primary School
